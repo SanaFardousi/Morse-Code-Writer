@@ -2,7 +2,7 @@
 
 This project involves building a robot that converts text into Morse code and writes it down. The robot is constructed using cardboard, Lego, and Arduino components. The repository includes the code necessary to run the robot.
 
-![](image.png)
+![.](image.png)
 
 ## Getting Started
 
